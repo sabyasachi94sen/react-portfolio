@@ -1038,7 +1038,7 @@ textarea{
         right: 0;
         width:100%;
       
-        top:-50vh;
+        top:-65vh;
         display: flex;
         flex-direction: column;
         background-color: lightgray;
@@ -1463,7 +1463,7 @@ textarea{
         display: flex;
         flex-direction: column;
         /* background-color: yellow; */
-         margin-top:15vh;
+         
       
     }
     /* .contact-me-hr{
@@ -1574,7 +1574,7 @@ textarea{
         right: 0;
         width:100%;
       
-        top:-150vh;
+        top:-165vh;
         display: flex;
         flex-direction: column;
         background-color: lightgray;
@@ -2016,7 +2016,7 @@ textarea{
         display: flex;
         flex-direction: column;
         /* background-color: yellow; */
-       margin-top:20vh;
+       
    
     }
     input{
