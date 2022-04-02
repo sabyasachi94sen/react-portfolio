@@ -1458,7 +1458,7 @@ textarea{
     }
     .contact-me
     {
-        width:90%;
+        width:100%;
         height:auto;
         display: flex;
         flex-direction: column;
@@ -2011,7 +2011,7 @@ textarea{
     }
     .contact-me
     {
-        width:90%;
+        width:100%;
         height:auto;
         display: flex;
         flex-direction: column;
