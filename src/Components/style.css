@@ -1463,6 +1463,7 @@ textarea{
         display: flex;
         flex-direction: column;
         /* background-color: yellow; */
+         margin-top:15vh;
       
     }
     /* .contact-me-hr{
@@ -2013,6 +2014,7 @@ textarea{
         display: flex;
         flex-direction: column;
         /* background-color: yellow; */
+       margin-top:20vh;
    
     }
     .contact-me:hover{
