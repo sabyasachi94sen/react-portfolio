@@ -1038,7 +1038,7 @@ textarea{
         right: 0;
         width:100%;
       
-        top:-65vh;
+        top:-125vh;
         display: flex;
         flex-direction: column;
         background-color: lightgray;
@@ -1574,7 +1574,7 @@ textarea{
         right: 0;
         width:100%;
       
-        top:-165vh;
+        top:-200vh;
         display: flex;
         flex-direction: column;
         background-color: lightgray;
