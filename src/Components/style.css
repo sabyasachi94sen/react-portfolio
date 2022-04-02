@@ -1499,6 +1499,10 @@ textarea{
      font-size:16px;
       touch-action: none;
    }
+   input:focus { 
+     font-size: 16px!important
+        }
+
    .projects-cover{
        width:90%;
        margin-top:3vh;
@@ -2023,6 +2027,11 @@ textarea{
    font-size:16px;
      touch-action: none;
 }
+input:focus { 
+     font-size: 16px!important
+        }
+
+
     .contact-me:hover{
         transform: scale(1);
     }
